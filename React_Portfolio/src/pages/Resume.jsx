@@ -16,20 +16,22 @@ const Resume = () => {
     ];
 
     return (
-        <div>
-            <h1>Resume</h1>
-            <p>Click the link below to download my resume:</p>
-            <a href="../src/assets/resume.pdf" download>
-                Download My Resume
-            </a>
-            <h2>Proficiencies</h2>
-            <ul>
-                {proficiencies.map((proficiency, index) => (
-                    <li key={index}>{proficiency}</li>
-                ))}
-            </ul>
-        </div>
-    );
+      <div className="resume-container">
+          <h1>Resume</h1>
+          <p>Click the link below to download my resume:</p>
+          <a href="/path/to/your/resume.pdf" download className="resume-link">
+              Download My Resume
+          </a>
+          <h2>Proficiencies</h2>
+          <div className="proficiencies-list">
+              {proficiencies.map((proficiency, index) => (
+                  <div className="proficiency-item" key={index}>
+                      {proficiency}
+                  </div>
+              ))}
+          </div>
+      </div>
+  );
 };
 
 export default Resume;
