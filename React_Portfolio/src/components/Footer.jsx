@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css'; 
-import { FaGithub} from 'react-icons/fa'; // Using FontAwesome icons
+import { FaGithub} from 'react-icons/fa'; 
 
 const Footer = () => {
   return (
