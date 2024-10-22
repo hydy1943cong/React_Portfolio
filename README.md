@@ -22,7 +22,7 @@ https://hydy1943congwang.netlify.app/
 
 Below are the screenshots of the portfolio website:
 
-![Portfolio Screenshot](./src/assets/img/AboutMe.png)
-![Portfolio Screenshot](./src/assets/img/Portfolio.png)
-![Portfolio Screenshot](./src/assets/img/Contact.png)
-![Portfolio Screenshot](./src/assets/img/Resume.png)
+![Portfolio Screenshot](./public/img/AboutMe.png)
+![Portfolio Screenshot](./public/img/Portfolio.png)
+![Portfolio Screenshot](./public/img/Contact.png)
+![Portfolio Screenshot](./public/img/Resume.png)

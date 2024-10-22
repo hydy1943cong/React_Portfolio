@@ -5,7 +5,7 @@ export default function About() {
          <h1>About Me</h1>
             <div className="about-content">
                 <img
-                    src="../src/assets/img/Cong-headshot.jpg" 
+                    src="../public/img/Cong-headshot.jpg" 
                     alt="Cong Wang"
                     className="profile-photo"
                 />
