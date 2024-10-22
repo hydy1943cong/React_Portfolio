@@ -1,8 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built with React and Vite, deployed on Netlify. The website showcases projects, skills, and other professional details in a clean and modern interface.
+## Features
 
-Currently, two official plugins are available:
+	•	Single-page application (SPA) built with React
+	•	Responsive design for mobile, tablet, and desktop
+	•	Fast development with Vite for optimal build times
+	•	Portfolio section showcasing projects with descriptions and links
+	•	Contact form for visitors to get in touch
+	•	Animations and transitions for a polished user experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Screenshot
+
+Below are the screenshots of the portfolio website:
+
+![Portfolio Screenshot](./src/assets/img/AboutMe.png)
+![Portfolio Screenshot](./src/assets/img/Portfolio.png)
+![Portfolio Screenshot](./src/assets/img/Contact.png)
+![Portfolio Screenshot](./src/assets/img/Resume.png)
