@@ -19,7 +19,7 @@ const Resume = () => {
       <div className="resume-container">
           <h1>Resume</h1>
           <p>Click the link below to download my resume:</p>
-          <a href="/path/to/your/resume.pdf" download className="resume-link">
+          <a href="/src/assets/resume.pdf" download className="resume-link">
               Download My Resume
           </a>
           <h2>Proficiencies</h2>

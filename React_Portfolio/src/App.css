@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  min-width: 100vh;
 }
 
 .logo {
@@ -295,7 +296,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100vh;
+  min-height: 100vh;
   font-family:  sans-serif; 
   line-height: 1.6;
 }
